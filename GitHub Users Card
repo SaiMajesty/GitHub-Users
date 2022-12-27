@@ -1,0 +1,5 @@
+# GitHub-Users
+
+
+This project is about a list of GitHub Users ,for this project i have used functional and class components for rendering the UI.This contains a list of objects in which each contains id,avatarUrl,login,title etc...By using map function the iteration of each and every object works and renders the UI.Initially this contains the serach box in which we can search the user login name so the particular user card acheive at the bottom or else the entire cards will be displayed.This is acheived by using state object which can be used for rendering UI when it changes over time and by using the filter and includes method in Javascript the searched data user card can be displayed in the UI.Also added different kinds of styling using Bootstrap,and media queries for a responsive web page,this means the UI gets adjusted according to the screen sizes.
+
